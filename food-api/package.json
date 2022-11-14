@@ -1,0 +1,25 @@
+{
+  "name": "food-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run db\" \"npm run dev\"",
+    "dev": "nodemon ./bin/www",
+    "db": "mongod --dbpath=./db"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.5",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
