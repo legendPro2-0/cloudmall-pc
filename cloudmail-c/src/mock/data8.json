@@ -1,0 +1,158 @@
+[
+    {
+      "id": 1,
+      "name": "CyberDog 仿生四足机器人",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628592561.88334119.jpg",
+      "price": "9999 元"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi智能家庭屏 10",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1650546443.90465325.png",
+      "price": "999 元"
+    },
+    {
+      "id": 3,
+      "name": "小米米家电子温湿度计Pro",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553766071.55565270.jpg",
+      "price": "99 元"
+    },
+    {
+      "id": 4,
+      "name": "小米无线开关",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1587710010.80215549.jpg",
+      "price": "39 元"
+    },
+    {
+      "id": 5,
+      "name": "智能家庭屏 6+智能摄像机2 云台版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/3F015E6ED98897802442F6CB89050E24.png",
+      "price": "598 元"
+    },
+    {
+      "id": 6,
+      "name": "Redmi路由器AX6000",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1648802740.79363704.jpg",
+      "price": "499 元"
+    },
+    {
+      "id": 7,
+      "name": "Redmi路由器AX5400",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1647399375.15328776.jpg",
+      "price": "369 元"
+    },
+    {
+      "id": 8,
+      "name": "Redmi电竞路由器AX5400",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1644894136.89766020.jpg",
+      "price": "599 元"
+    },
+    {
+      "id": 9,
+      "name": "小米路由器AX3000",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628502573.48025359.jpg",
+      "price": "329 元"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi HomeWiFi 三频 Mesh 路由器",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1656902607.73488004.jpg",
+      "price": "1499 元"
+    },
+    {
+      "id": 11,
+      "name": "小米路由器WR30U （联通定制款）",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/3DC7BA0AA26F1F6B76B2030B2418D363.png",
+      "price": "499 元"
+    },
+    {
+      "id": 12,
+      "name": "小米小爱音箱 Pro",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568617574.72446120.jpg",
+      "price": "279 元"
+    },
+    {
+      "id": 13,
+      "name": "小米小爱音箱 Play",
+      "product": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ddbc2f059f7fd7cb524336a3b08f4179.jpg",
+      "price": "99 元"
+    },
+    {
+      "id": 14,
+      "name": "小米小爱音箱 Art 电池版（无感配网） ",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603769856.5928205.jpg",
+      "price": "299 元"
+    },
+    {
+      "id": 15,
+      "name": "Redmi 电视条形音箱",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1589879499.20382081.jpg",
+      "price": "199 元"
+    },
+    {
+      "id": 16,
+      "name": "小米电视音箱3.1",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/8B3060B91A6EF2AA46949F6364C2C82A.png",
+      "price": "1499 元"
+    },
+    {
+      "id": 17,
+      "name": "小米米家连供喷墨打印一体机",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/779094753F5A72E58B6E91259CAEB34E.png",
+      "price": "1099 元"
+    },
+    {
+      "id": 18,
+      "name": "小米米家照片打印机1S ",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1605255379.27232799.jpg",
+      "price": "599 元"
+    },
+    {
+      "id": 19,
+      "name": "小米米家照片打印机1S 特惠新装",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/56B3088B8659801EFA03174BFE04AA46.png",
+      "price": "799 元"
+    },
+    {
+      "id": 20,
+      "name": "小米米家照片打印机1S 3英寸背胶相纸",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1605490368.15946098.jpg",
+      "price": "99 元"
+    },
+    {
+      "id": 21,
+      "name": "小米公网对讲机",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/BC310FAE36A83E5B8E0CE7B726C4E388.png",
+      "price": "399 元"
+    },
+    {
+      "id": 22,
+      "name": "小米对讲机2 ",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606722911.3975384.jpg",
+      "price": "449 元"
+    },
+    {
+      "id": 23,
+      "name": "小米全自动智能门锁",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1600658170.07729998.jpg",
+      "price": "1799 元"
+    },
+    {
+      "id": 24,
+      "name": "小米智能猫眼1S",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1648353006.02728514.jpg",
+      "price": "649 元"
+    },
+    {
+      "id": 25,
+      "name": "智能家庭屏 6+智能门铃套装 ",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/3BF2E9671DE1B5C0A4635C2E892253CC.png",
+      "price": "668 元"
+    },
+    {
+      "id": 26,
+      "name": "小米智能摄像机2 云台版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1634703721.65372475.jpg",
+      "price": "229 元"
+    }
+  ]

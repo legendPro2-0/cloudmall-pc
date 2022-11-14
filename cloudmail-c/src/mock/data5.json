@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Redmi G 游戏本 锐龙版 R5",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/963E7D67BDC0C743D3DA5B4C799347EE.png",
+      "price": "6299 元"
+    },
+    {
+      "id": 2,
+      "name": "Redmi Book Pro 15 2022",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1647319964.75187703.png",
+      "price": "5399 元"
+    },
+    {
+      "id": 3,
+      "name": "Redmi G 2021 锐龙版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/963E7D67BDC0C743D3DA5B4C799347EE.png",
+      "price": "6699 元"
+    },
+    {
+      "id": 4,
+      "name": "小米平板5",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628600350.1553788.png",
+      "price": "1999 元"
+    },
+    {
+      "id": 5,
+      "name": "小米平板5 Pro",
+      "product": "hhttps://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628600350.1553788.png",
+      "price": "3099 元"
+    },
+    {
+      "id": 6,
+      "name": "Redmi G Pro 游戏本 2022 锐龙版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1635769860.75812473.jpg",
+      "price": "7999 元"
+    },
+    {
+      "id": 7,
+      "name": "Redmi G 游戏本 2022",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1631957457.33064712.jpg",
+      "price": "6299 元"
+    },
+    {
+      "id": 8,
+      "name": "小米笔记本 Pro 15 增强版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616776581.38587185.png",
+      "price": "5799 元"
+    },
+    {
+      "id": 9,
+      "name": "小米平板5 Pro 12.4",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616781419.80237748.png",
+      "price": "3499 元"
+    },
+    {
+      "id": 10,
+      "name": "Redmi G 2021",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616781419.80237748.png",
+      "price": "5499 元"
+    },
+    {
+      "id": 11,
+      "name": "小米笔记本Pro X 14",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616781419.80237748.png",
+      "price": "7499 元"
+    },
+    {
+      "id": 12,
+      "name": "小米笔记本 Pro 14 增强版",
+      "product": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1621682522.91058978.jpg",
+      "price": "4799 元"
+    }
+  ]
